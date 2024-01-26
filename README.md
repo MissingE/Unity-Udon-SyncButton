@@ -15,3 +15,4 @@ UdonSharp: UdonSharp is a crucial package that allows for writing Udon scripts i
 Please ensure these packages are added to your project for full functionality.
 
 # Release
+https://github.com/MissingE/Unity-Udon-SyncButton/releases/tag/v1.0.0
