@@ -1,4 +1,5 @@
 # Unity-Udon-SyncButton
+This asset is used in VRChat to make a specific object appear at the same time for all players.
 
 This code was created in Unity version 2022.3.6f1. Compatibility with versions other than Built In cannot be guaranteed.
 
